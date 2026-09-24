@@ -1,4 +1,4 @@
-**HatchWorksTest Project Description**
+**Modular Android app with Clean Architecture, Compose and unit tests (TMDB API)**
 
 [Video of App behavior](https://github.com/ingesteban/hatchWorksTest/blob/main/hatchWorksTest.mp4)
 
