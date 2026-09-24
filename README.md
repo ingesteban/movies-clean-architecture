@@ -1,4 +1,9 @@
-**Modular Android app with Clean Architecture, Compose and unit tests (TMDB API)**
+# Movies — Clean Architecture on Android
+
+A modular Android app built with Clean Architecture, Jetpack Compose and unit
+tests across all layers, consuming the TMDB API.
+
+## Video of app behavior
 
 [Video of App behavior](https://github.com/ingesteban/hatchWorksTest/blob/main/hatchWorksTest.mp4)
 
